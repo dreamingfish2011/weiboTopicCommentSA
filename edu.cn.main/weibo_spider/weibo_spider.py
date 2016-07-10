@@ -249,7 +249,7 @@ if __name__ == '__main__':
     print("dasha")
     #定义变量
     username = 'jumay201210@gmail.com'             #输入你的用户名
-    password = 'Zhm,./3523'               #输入你的密码
+    password = '*********'               #输入你的密码
     print('init:username=' +username+'  password=' +password)
     #操作函数
     LoginWeibo(username, password)       #登陆微博
